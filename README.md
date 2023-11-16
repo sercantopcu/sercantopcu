@@ -1,1 +1,1 @@
-•  🌱 I’m currently learning Docker,Kubernetes.
+•  🌱 I’m currently working on three-tier app project.
