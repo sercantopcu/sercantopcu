@@ -1,1 +1,1 @@
-•  🌱 I’m currently working on three-tier app project.
+•  🌱 I’m currently working on AWS Infrastructure project.
